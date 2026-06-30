@@ -829,7 +829,7 @@
         },
         {
             "key": "哔哩",
-            "name": "🅱️哔哩哔哩",
+            "name": "🅱️哔哩哔哩（完整分类）",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -841,24 +841,6 @@
             },
             "ext": {
                 "json": "./json/Bili.json",
-                "commonConfig": "./json/peizhi.json",
-                "cookie": ""
-            }
-        },
-        {
-            "key": "相声小品",
-            "name": "🅱️相声小品",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "ext": {
-                "json": "./json/Blixs.json",
                 "commonConfig": "./json/peizhi.json",
                 "cookie": ""
             }
